@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "d:\Files\Git Repos\ATBS-Files\Debugging\raise_assert.py", line 26, in <module>
+    raise Exception('Please enter a sybmol which only 1 character')  # input check for symbol length
+Exception: Please enter a sybmol which only 1 character
+Traceback (most recent call last):
+  File "d:\Files\Git Repos\ATBS-Files\Debugging\raise_assert.py", line 30, in <module>
+    raise Exception('Please enter a valid width/height. Must be greater than 2')
+Exception: Please enter a valid width/height. Must be greater than 2
+Traceback (most recent call last):
+  File "d:\Files\Git Repos\ATBS-Files\Debugging\raise_assert.py", line 26, in <module>
+    raise Exception('Please enter a sybmol which only 1 character')  # input check for symbol length
+Exception: Please enter a sybmol which only 1 character

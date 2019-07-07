@@ -1,0 +1,30 @@
+#  List of python related crap that 'might' be useful 
+
+To get all available methods of an Object
+
+methodList = [method for method in dir(object) if callable(getattr(object, method))]
+
+example :: 
+
+class MyClass:
+    
+    def __init__(self,name):
+        self.name = name   # this is the attribute of the object that will be created using this class
+    
+    def myFun():
+        print('this is a method of my object')
+    
+    def myFun2():
+        print('This is another method')
+    
+
+myObj = MyClass('First')
+
+methodList = [method for method in dir(myObj) if callable(getattr(myObj, method))]   # << this only returns the methods of the object
+print(methodList)
+print(dir(myObj))   # this will return methods and attributes
+
+print('only user created attributes and methods')
+print([userDefined for userDefined in dir(myObj) if not userDefined.startswith('__')]) # this will only return the user created methods
+                                                                                        # basically those without '__method__' format
+                                                                                    

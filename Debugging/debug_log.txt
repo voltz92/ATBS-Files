@@ -1,0 +1,18 @@
+2019-07-02 17:48:14,174 - DEBUG - Start ----
+2019-07-02 17:48:14,174 - DEBUG - Inside the funciton
+2019-07-02 17:48:14,174 - DEBUG - The value of iterator in the loop is 1 and the total is 1
+2019-07-02 17:48:14,174 - DEBUG - The value of iterator in the loop is 2 and the total is 2
+2019-07-02 17:48:14,174 - DEBUG - The value of iterator in the loop is 3 and the total is 6
+2019-07-02 17:48:14,174 - DEBUG - The value of iterator in the loop is 4 and the total is 24
+2019-07-02 17:48:14,174 - DEBUG - The value of iterator in the loop is 5 and the total is 120
+2019-07-02 17:48:14,174 - DEBUG - Value to be returned : 120
+2019-07-02 17:48:14,175 - DEBUG - Execution complete
+2019-07-02 17:49:15,127 - DEBUG - Start ----
+2019-07-02 17:49:15,127 - DEBUG - Inside the funciton
+2019-07-02 17:49:15,127 - DEBUG - The value of iterator in the loop is 1 and the total is 1
+2019-07-02 17:49:15,127 - DEBUG - The value of iterator in the loop is 2 and the total is 2
+2019-07-02 17:49:15,127 - DEBUG - The value of iterator in the loop is 3 and the total is 6
+2019-07-02 17:49:15,128 - DEBUG - The value of iterator in the loop is 4 and the total is 24
+2019-07-02 17:49:15,128 - DEBUG - The value of iterator in the loop is 5 and the total is 120
+2019-07-02 17:49:15,128 - DEBUG - Value to be returned : 120
+2019-07-02 17:49:15,128 - DEBUG - Execution complete

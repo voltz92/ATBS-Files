@@ -1,0 +1,2 @@
+HI! How are ya?
+This is just a random text file to test file read function.
